@@ -3,7 +3,7 @@
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Turkey (Türkiye). Most of the resources and tools has versions in Turkish; some also in English. Many personal and property lookups (land registry owner data, vehicle records, trade registry details in MERSİS) are available only to the data subject through e-Devlet (turkiye.gov.tr) with a Turkish ID number, and there is no public register of beneficial owners. The Trade Registry Gazette (TTSG), the Public Disclosure Platform (KAP), court decision databases and the Official Gazette remain the main open sources on companies and officials; appointments of senior officials are published in the Resmî Gazete. Enter names with Turkish letters (ç, ğ, ı, İ, ö, ş, ü).
 
 
-![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Turkiye?label=Last%20updated)
+![Last updated](https://img.shields.io/github/last-commit/pogoda-provereno/OSINT-Tools-Turkiye?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
